@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey! I'm Camila Novaes! 👋
 
-<!--
-**camilanovaes/camilanovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Brazil. 🇧🇷
 
-Here are some ideas to get you started:
+My main interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Distributed systems.
+- Parallel computing.
+- Satellite communications.
+- Machine learning.
+
+Reach me on:
+
+- Linkedin: [@canovaes](https://www.linkedin.com/in/canovaes/)
+- Email: [novaes.csw@gmail.com](mailto:novaes.csw@gmail.com)
